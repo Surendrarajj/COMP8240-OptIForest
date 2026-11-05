@@ -1,0 +1,20 @@
+{
+  "original_repository": "https://github.com/xiagll/OptIForest",
+  "upstream_tree_checked": "a8be90d3ba767ead91bfc054cdea562327c11a31",
+  "comparison": "All seven detector Python files byte-identical to the checked public tree",
+  "detectors": {
+    "__init__.py": "29aed66e3ef35f0386cf423e8874bf3c13aa5d1057a8c008715f36a04bf3d0e2",
+    "opt.py": "e04b76840068b931ba418554847649f13ad68d0b176e14985f446af6a25e1145",
+    "opt_forest.py": "48c5ef8fd210d385c4049d4ef8adadc4689d8c82cfd55db481a2ac828aefb1e5",
+    "opt_iforest.py": "aafe0efb19194780cf55891031a436fa26191e51be27004ef3d33102aa3e467c",
+    "opt_node.py": "7b4198c68adc57c191a0458f034010545fe2ed61908d6c05c99887bc2c23425f",
+    "opt_tree.py": "e9186f473c3e2d7040e701292191ac1e4693fefb277b68adb92880cd27e214e0",
+    "sampling.py": "f89239eea594843bde98374c1a987f83d23620c106308e7daca8c36bc4dd7397"
+  },
+  "adbench_tree_checked": "3dac8221081e190f157d78e93bfa8867f90d0965",
+  "test_changes": [
+    "Resolve data paths relative to test file",
+    "Remove prepended sample index from HierHash fixture centers"
+  ],
+  "core_detector_changes": []
+}

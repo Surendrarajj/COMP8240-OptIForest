@@ -1,0 +1,10 @@
+{
+  "interface": "ChatGPT/Codex assistant in the project-preparation conversation",
+  "exact_model_id": "unavailable",
+  "date_local": "2026-11-06",
+  "temperature": "not exposed",
+  "passes": 1,
+  "independent_judge": false,
+  "human_raters": 0,
+  "disclosure": "The same assistant helped construct the templates and recorded these judgments after reading cases.json and the saved rubric. This is an unblinded exploratory self-audit, not an independent API evaluation."
+}

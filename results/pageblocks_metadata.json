@@ -1,0 +1,22 @@
+{
+  "dataset": "pageblocks",
+  "sha256": "e62cf33c1ed4438856e92ce140eb54aea2c93b356185f0b018df672839eecd4f",
+  "rows": 5393,
+  "features": 10,
+  "anomalies": 510,
+  "preprocessing": "raw features; duplicates retained; no scaling",
+  "evaluation": "fit and score same full dataset; labels for metrics only",
+  "trees": 100,
+  "sample_size": 512,
+  "threshold": 403,
+  "branch": 0,
+  "granularity": 1,
+  "python": "3.12.14",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "numpy": "1.26.4",
+  "pandas": "2.2.3",
+  "scipy": "1.13.1",
+  "scikit_learn": "1.6.1",
+  "cpu": "x86_64",
+  "timing": "wall time; shared host load varies"
+}

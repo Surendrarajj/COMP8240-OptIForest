@@ -1,0 +1,125 @@
+{
+  "ad": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "optiforest_runs": 9,
+    "isolationforest_runs": 9
+  },
+  "annthyroid": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "optiforest_runs": 5,
+    "isolationforest_runs": 5
+  },
+  "breastw": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "optiforest_runs": 15,
+    "isolationforest_runs": 15
+  },
+  "pima": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "optiforest_runs": 15,
+    "isolationforest_runs": 15
+  },
+  "pageblocks": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "optiforest_runs": 7,
+    "isolationforest_runs": 7
+  },
+  "yeast": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "optiforest_runs": 15,
+    "isolationforest_runs": 15
+  },
+  "synthetic": {
+    "paired_seeds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "optiforest_runs": 15,
+    "isolationforest_runs": 15
+  }
+}

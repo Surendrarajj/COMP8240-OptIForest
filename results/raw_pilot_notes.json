@@ -1,0 +1,5 @@
+{
+  "reason": "Pima and PageBlocks did not complete a first 100-tree raw-feature run within approximately five minutes wall time. Operational change to one common StandardScaler pipeline for all extension datasets. Completed raw pilot runs retained.",
+  "terminated_worker_pids": [],
+  "timing_precision": "approximate; no fixed per-run timeout was configured"
+}

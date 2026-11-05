@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "annthyroid",
+    "rows": 7200,
+    "features": 6,
+    "anomalies": 534,
+    "duplicate_full_rows": 138,
+    "duplicate_features": 138,
+    "missing_or_infinite": 0,
+    "npz_csv_equal": true,
+    "csv_sha256": "20696aaea758ac0b3baac73f141ed4355c496e17ffbc628d4a6b8ad092ec376f",
+    "npz_sha256": "e738f7c58a8740d2c4aac4c71ff49ce5e1d1aa16f44178135fc9c09df05fad1b"
+  },
+  {
+    "dataset": "breastw",
+    "rows": 683,
+    "features": 9,
+    "anomalies": 239,
+    "duplicate_full_rows": 234,
+    "duplicate_features": 234,
+    "missing_or_infinite": 0,
+    "npz_csv_equal": true,
+    "csv_sha256": "38aa2d280ad607dd0482173473a85d431a58d676c773f0451b6975ba9bb1f68e",
+    "npz_sha256": "4f37ce07dbc25ddad8178fdc6d664ab46d2d0000ee28c2787c3c7ff3c03ef9f6"
+  },
+  {
+    "dataset": "pima",
+    "rows": 768,
+    "features": 8,
+    "anomalies": 268,
+    "duplicate_full_rows": 0,
+    "duplicate_features": 0,
+    "missing_or_infinite": 0,
+    "npz_csv_equal": true,
+    "csv_sha256": "54f8fee45592feeedd35f622615c203b1d3abd6616069d3851ddd929eeec9ec8",
+    "npz_sha256": "215454bb263a2f040945c9ea7bd7f06f1e89a61a3143bdb6f196e3887e801a7d"
+  },
+  {
+    "dataset": "pageblocks",
+    "rows": 5393,
+    "features": 10,
+    "anomalies": 510,
+    "duplicate_full_rows": 0,
+    "duplicate_features": 0,
+    "missing_or_infinite": 0,
+    "npz_csv_equal": true,
+    "csv_sha256": "e62cf33c1ed4438856e92ce140eb54aea2c93b356185f0b018df672839eecd4f",
+    "npz_sha256": "10a9b4d5bb5d3b9083caab4c4062f665610eada703c3d927bf7c34b1f2d0d223"
+  },
+  {
+    "dataset": "yeast",
+    "rows": 1484,
+    "features": 8,
+    "anomalies": 507,
+    "duplicate_full_rows": 31,
+    "duplicate_features": 31,
+    "missing_or_infinite": 0,
+    "npz_csv_equal": true,
+    "csv_sha256": "a453b37bdda449903a01573c9381d80d73007fc5db0a2382c0c01836e3dfd241",
+    "npz_sha256": "bbb15c873d78a4f6a589f46d0f75814595e2282d2ae7ce7779c750f276c3770d"
+  }
+]

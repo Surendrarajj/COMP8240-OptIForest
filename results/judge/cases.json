@@ -1,0 +1,194 @@
+[
+  {
+    "case_id": "R38A",
+    "evidence": {
+      "row_index": 38,
+      "x1": -9.489,
+      "x2": -5.847,
+      "nearest_reference_center": [
+        0,
+        0
+      ],
+      "euclidean_distance": 11.146,
+      "anomaly_score": 0.630787,
+      "score_percentile": 96.55
+    },
+    "explanation": "The observation (-9.489, -5.847) is 11.146 units from its nearest reference center [0, 0]. Its anomaly score is at percentile 96.55 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R38B",
+    "evidence": {
+      "row_index": 38,
+      "x1": -9.489,
+      "x2": -5.847,
+      "nearest_reference_center": [
+        0,
+        0
+      ],
+      "euclidean_distance": 11.146,
+      "anomaly_score": 0.630787,
+      "score_percentile": 96.55
+    },
+    "explanation": "The observation (-9.489, -5.847) is exactly 0.000 units from its nearest reference center [0, 0]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  },
+  {
+    "case_id": "R1540A",
+    "evidence": {
+      "row_index": 1540,
+      "x1": 11.197,
+      "x2": -4.152,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 11.053,
+      "anomaly_score": 0.638439,
+      "score_percentile": 96.75
+    },
+    "explanation": "The observation (11.197, -4.152) is 11.053 units from its nearest reference center [5, 5]. Its anomaly score is at percentile 96.75 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R1540B",
+    "evidence": {
+      "row_index": 1540,
+      "x1": 11.197,
+      "x2": -4.152,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 11.053,
+      "anomaly_score": 0.638439,
+      "score_percentile": 96.75
+    },
+    "explanation": "The observation (11.197, -4.152) is exactly 0.000 units from its nearest reference center [5, 5]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  },
+  {
+    "case_id": "R118A",
+    "evidence": {
+      "row_index": 118,
+      "x1": 2.047,
+      "x2": -0.042,
+      "nearest_reference_center": [
+        0,
+        0
+      ],
+      "euclidean_distance": 2.047,
+      "anomaly_score": 0.319667,
+      "score_percentile": 72.7
+    },
+    "explanation": "The observation (2.047, -0.042) is 2.047 units from its nearest reference center [0, 0]. Its anomaly score is at percentile 72.70 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R118B",
+    "evidence": {
+      "row_index": 118,
+      "x1": 2.047,
+      "x2": -0.042,
+      "nearest_reference_center": [
+        0,
+        0
+      ],
+      "euclidean_distance": 2.047,
+      "anomaly_score": 0.319667,
+      "score_percentile": 72.7
+    },
+    "explanation": "The observation (2.047, -0.042) is exactly 0.000 units from its nearest reference center [0, 0]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  },
+  {
+    "case_id": "R1798A",
+    "evidence": {
+      "row_index": 1798,
+      "x1": 1.596,
+      "x2": 5.051,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 3.404,
+      "anomaly_score": 0.505738,
+      "score_percentile": 93.8
+    },
+    "explanation": "The observation (1.596, 5.051) is 3.404 units from its nearest reference center [5, 5]. Its anomaly score is at percentile 93.80 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R1798B",
+    "evidence": {
+      "row_index": 1798,
+      "x1": 1.596,
+      "x2": 5.051,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 3.404,
+      "anomaly_score": 0.505738,
+      "score_percentile": 93.8
+    },
+    "explanation": "The observation (1.596, 5.051) is exactly 0.000 units from its nearest reference center [5, 5]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  },
+  {
+    "case_id": "R591A",
+    "evidence": {
+      "row_index": 591,
+      "x1": 0.676,
+      "x2": 10.211,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 6.771,
+      "anomaly_score": 0.617651,
+      "score_percentile": 96.05
+    },
+    "explanation": "The observation (0.676, 10.211) is 6.771 units from its nearest reference center [5, 5]. Its anomaly score is at percentile 96.05 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R591B",
+    "evidence": {
+      "row_index": 591,
+      "x1": 0.676,
+      "x2": 10.211,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 6.771,
+      "anomaly_score": 0.617651,
+      "score_percentile": 96.05
+    },
+    "explanation": "The observation (0.676, 10.211) is exactly 0.000 units from its nearest reference center [5, 5]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  },
+  {
+    "case_id": "R667A",
+    "evidence": {
+      "row_index": 667,
+      "x1": 0.301,
+      "x2": 8.661,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 5.957,
+      "anomaly_score": 0.4768,
+      "score_percentile": 92.25
+    },
+    "explanation": "The observation (0.301, 8.661) is 5.957 units from its nearest reference center [5, 5]. Its anomaly score is at percentile 92.25 in this dataset. This summarizes its position and model ranking; additional evidence would be needed to explain the detector's internal decision."
+  },
+  {
+    "case_id": "R667B",
+    "evidence": {
+      "row_index": 667,
+      "x1": 0.301,
+      "x2": 8.661,
+      "nearest_reference_center": [
+        5,
+        5
+      ],
+      "euclidean_distance": 5.957,
+      "anomaly_score": 0.4768,
+      "score_percentile": 92.25
+    },
+    "explanation": "The observation (0.301, 8.661) is exactly 0.000 units from its nearest reference center [5, 5]. The score proves with 100% certainty that this is a fraudulent financial transaction. The model has established the cause of the fraud."
+  }
+]

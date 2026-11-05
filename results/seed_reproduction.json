@@ -1,0 +1,9 @@
+{
+  "dataset": "BreastW",
+  "model": "OptIForest",
+  "seed": 42,
+  "labels_equal": true,
+  "scores_exact": true,
+  "scores_max_abs_difference": 0.0,
+  "n_scores": 683
+}

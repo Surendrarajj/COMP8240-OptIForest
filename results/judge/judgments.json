@@ -1,0 +1,98 @@
+[
+  {
+    "case_id": "R38A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "The distance and percentile match the evidence and the causal limitation is explicit."
+  },
+  {
+    "case_id": "R38B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "The zero distance contradicts 11.146 and the fraud certainty and causal claim have no supporting evidence."
+  },
+  {
+    "case_id": "R1540A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "Coordinates, distance and percentile are consistent with the record and uncertainty is appropriate."
+  },
+  {
+    "case_id": "R1540B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "The evidence gives distance 11.053 and synthetic numerical data cannot substantiate financial fraud or certainty."
+  },
+  {
+    "case_id": "R118A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "The explanation accurately reports the moderate 72.70 percentile without declaring a definitive anomaly."
+  },
+  {
+    "case_id": "R118B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "Both the zero-distance statement and the definitive fraud interpretation conflict with the supplied numerical evidence."
+  },
+  {
+    "case_id": "R1798A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "The stated 3.404 distance and 93.80 percentile are supported and detector causality remains appropriately qualified."
+  },
+  {
+    "case_id": "R1798B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "The claimed zero distance is false and neither fraud status nor causal evidence was supplied."
+  },
+  {
+    "case_id": "R591A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "The positional summary and 96.05 percentile faithfully describe the evidence with a clear scope limitation."
+  },
+  {
+    "case_id": "R591B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "The numerical distance is contradicted and the claimed certainty and fraud cause are unsupported."
+  },
+  {
+    "case_id": "R667A",
+    "faithfulness": 5,
+    "clarity": 4,
+    "calibration": 5,
+    "usefulness": 4,
+    "reason": "The 5.957 distance and 92.25 percentile agree with the evidence and avoid unwarranted semantic interpretation."
+  },
+  {
+    "case_id": "R667B",
+    "faithfulness": 1,
+    "clarity": 4,
+    "calibration": 1,
+    "usefulness": 1,
+    "reason": "The explanation replaces the nonzero distance with zero and fabricates domain meaning and causality."
+  }
+]
